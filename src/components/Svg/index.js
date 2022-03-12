@@ -6,5 +6,7 @@ import envelope from "./zondicons/envelope.svg";
 export const ENVELOPE = envelope;
 import search from "./zondicons/search.svg";
 export const SEARCH = search;
+import question from "./zondicons/question.svg";
+export const AIDE = question;
 
 export default ({ src }) => src({ height: "1em", fill: "#f8f9fa" });
