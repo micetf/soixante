@@ -1,9 +1,9 @@
 {
     "private": true,
-    "name": "micetf-starter-kit",
+    "name": "soixante",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/micetf/starter-kit.git",
+    "repository": "https://github.com/micetf/soixante.git",
     "author": "Frédéric MISERY <webmaster@micetf.fr> (https://micetf.fr/)",
     "license": "MIT",
     "scripts": {
