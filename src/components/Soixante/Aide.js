@@ -39,7 +39,7 @@ function Aide({ visibiliteAide, fermerAide }) {
                         </p>
                         <ul>
                             <li>
-                                Entretenir la capacité à camculer autour du
+                                Entretenir la capacité à calculer autour du
                                 nombre 60 (secondes, minutes ?).
                             </li>
                         </ul>
